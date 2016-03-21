@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
 
 
     private void Start()
-    {
+    {//fuck
         m_StartWait = new WaitForSeconds(m_StartDelay);
         m_EndWait = new WaitForSeconds(m_EndDelay);
 
