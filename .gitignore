@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Temp
+/Tanks.sln
+/Tanks.CSharp.Plugins.csproj
+/Tanks.CSharp.Editor.csproj
+/Tanks.CSharp.csproj
+/Library
